@@ -1,0 +1,1848 @@
+﻿Log file open, 06/22/18 13:43:49
+LogInit: Display: Running engine for game: LightShow
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2067337734) SRandInit(-2067337734).
+LogInit: Read version file with build ID '0ce7f155-6980-4572-a746-81caea994bb5'
+LogInit: Registered custom module enumerator with build ID '0ce7f155-6980-4572-a746-81caea994bb5'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.029651
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Linux/libUE4Editor-LightPropagationVolumeRuntime.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Linux/libUE4Editor-LightPropagationVolumeEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Linux/libUE4Editor-NetcodeUnitTest.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Linux/libUE4Editor-NUTUnrealEngine4.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Linux/libUE4Editor-CLionSourceCodeAccess.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/NullSourceCodeAccess/Binaries/Linux/libUE4Editor-NullSourceCodeAccess.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/Binaries/Linux/libUE4Editor-CodeLiteSourceCodeAccess.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Linux/libUE4Editor-PerforceSourceControl.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/Binaries/Linux/libUE4Editor-KDevelopSourceCodeAccess.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Linux/libUE4Editor-GitSourceControl.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Linux/libUE4Editor-UObjectPlugin.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Linux/libUE4Editor-SubversionSourceControl.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Linux/libUE4Editor-VisualStudioCodeSourceCodeAccess.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Linux/libUE4Editor-DatasmithContent.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Linux/libUE4Editor-AndroidMediaEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Linux/libUE4Editor-AndroidMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Linux/libUE4Editor-ImgMedia.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Linux/libUE4Editor-ImgMediaEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Linux/libUE4Editor-ImgMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Linux/libUE4Editor-ImgMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Linux/libUE4Editor-LinearTimecode.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Linux/libUE4Editor-WmfMediaEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Linux/libUE4Editor-WmfMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Linux/libUE4Editor-WmfMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Linux/libUE4Editor-MediaCompositing.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Linux/libUE4Editor-MediaCompositingEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Linux/libUE4Editor-MediaPlayerEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Linux/libUE4Editor-AvfMediaEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Linux/libUE4Editor-AvfMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Linux/libUE4Editor-AvfMediaFactory.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Linux/libUE4Editor-CharacterAI.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Linux/libUE4Editor-AlembicImporter.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Linux/libUE4Editor-AlembicLibrary.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Linux/libUE4Editor-Paper2D.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Linux/libUE4Editor-Paper2DEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Linux/libUE4Editor-PaperSpriteSheetImporter.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Linux/libUE4Editor-PaperTiledImporter.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Linux/libUE4Editor-SmartSnapping.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Linux/libUE4Editor-MobileLauncherProfileWizard.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Linux/libUE4Editor-CryptoKeys.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Linux/libUE4Editor-CryptoKeysOpenSSL.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Linux/libUE4Editor-FacialAnimation.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Linux/libUE4Editor-FacialAnimationEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Linux/libUE4Editor-GameplayTagsEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Linux/libUE4Editor-AssetManagerEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Linux/libUE4Editor-DataValidation.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Linux/libUE4Editor-PluginBrowser.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Linux/libUE4Editor-SpeedTreeImporter.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Linux/libUE4Editor-OnlineSubsystem.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Linux/libUE4Editor-OnlineSubsystemUtils.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Linux/libUE4Editor-OnlineBlueprintSupport.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Linux/libUE4Editor-OnlineSubsystemNull.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Linux/libUE4Editor-AndroidPermission.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Linux/libUE4Editor-ProceduralMeshComponent.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Linux/libUE4Editor-ProceduralMeshComponentEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Linux/libUE4Editor-LocationServicesBPLibrary.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Linux/libUE4Editor-SteamVR.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Linux/libUE4Editor-SteamVRController.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Linux/libUE4Editor-ImmediatePhysics.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Linux/libUE4Editor-ImmediatePhysicsEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Linux/libUE4Editor-AndroidDeviceProfileSelector.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Linux/libUE4Editor-CableComponent.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Linux/libUE4Editor-CustomMeshComponent.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Linux/libUE4Editor-ExampleDeviceProfileSelector.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Linux/libUE4Editor-ArchVisCharacter.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Linux/libUE4Editor-MobilePatchingUtils.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Linux/libUE4Editor-RuntimePhysXCooking.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Linux/libUE4Editor-LiveLink.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Linux/libUE4Editor-LiveLinkEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Linux/libUE4Editor-PhysXVehicles.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Linux/libUE4Editor-PhysXVehiclesEditor.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/Binaries/Linux/libUE4Editor-LinuxDeviceProfileSelector.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Linux/libUE4Editor-UdpMessaging.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Linux/libUE4Editor-TcpMessaging.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Linux/libUE4Editor-MatineeToLevelSequence.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Linux/libUE4Editor-ActorSequence.so (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Linux/libUE4Editor-LevelSequenceEditor.so (API version 0).
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin LightShow
+LogStreaming: Display: Took  0.499s to configure plugins.
+LogInit: Using libcurl 7.57.0
+LogInit:  - built for x86_64-pc-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  Libcurl: checking if '/etc/pki/tls/certs/ca-bundle.crt' exists
+LogInit:  Libcurl: checking if '/etc/ssl/certs/ca-certificates.crt' exists
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = /etc/ssl/certs/ca-certificates.crt  - Libcurl will set CURLOPT_CAINFO to it
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogLinux: Warning: dlopen failed: /home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-XMPP.so: undefined symbol: _ZTIN4buzz8XmppTaskE
+LogModuleManager: Warning: ModuleManager: Unable to load module '/home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-XMPP.so' because the file couldn't be loaded by the OS.
+LogInit: Build: ++UE4+Release-4.19-CL-0
+LogInit: Engine Version: 4.19.2-0+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-0+++UE4+Release-4.19
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Jun  5 2018 09:25:35
+LogInit: Compiled with Clang: 5.0.2 (branches/release_50)
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: /home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.22-16.43.50:216][  0]LogInit: Initializing SDL.
+[2018.06.22-16.43.50:516][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2018.06.22-16.43.50:516][  0]LogInit: Initialized SDL 2.0.5 revision: 11184 (hg-11184:04063928c4a8 with EpicExtensions) (compiled against 2.0.5)
+[2018.06.22-16.43.50:516][  0]LogInit: Display metrics:
+[2018.06.22-16.43.50:516][  0]LogInit:   PrimaryDisplayWidth: 1920
+[2018.06.22-16.43.50:516][  0]LogInit:   PrimaryDisplayHeight: 1080
+[2018.06.22-16.43.50:516][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2018.06.22-16.43.50:516][  0]LogInit:     Left=65, Top=24, Right=1920, Bottom=1080
+[2018.06.22-16.43.50:516][  0]LogInit:   VirtualDisplayRect:
+[2018.06.22-16.43.50:516][  0]LogInit:     Left=65, Top=24, Right=1920, Bottom=1080
+[2018.06.22-16.43.50:516][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.06.22-16.43.50:516][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.06.22-16.43.50:516][  0]LogInit:   Number of monitors: 1
+[2018.06.22-16.43.50:516][  0]LogInit:     Monitor 0
+[2018.06.22-16.43.50:516][  0]LogInit:       Name: 23EA53 23"
+[2018.06.22-16.43.50:516][  0]LogInit:       ID: display0
+[2018.06.22-16.43.50:516][  0]LogInit:       NativeWidth: 1920
+[2018.06.22-16.43.50:516][  0]LogInit:       NativeHeight: 1080
+[2018.06.22-16.43.50:516][  0]LogInit:       bIsPrimary: true
+[2018.06.22-16.43.50:516][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.06.22-16.43.50:516][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2018.06.22-16.43.50:523][  0]LogInit: Linux hardware info:
+[2018.06.22-16.43.50:523][  0]LogInit:  - we are the first instance of this executable
+[2018.06.22-16.43.50:523][  0]LogInit:  - this process' id (pid) is 13884, parent process' id (ppid) is 2440
+[2018.06.22-16.43.50:523][  0]LogInit:  - we are not running under debugger
+[2018.06.22-16.43.50:523][  0]LogInit:  - machine network name is 'veritas'
+[2018.06.22-16.43.50:523][  0]LogInit:  - user name is 'danguafer' (danguafer)
+[2018.06.22-16.43.50:523][  0]LogInit:  - we're logged in locally
+[2018.06.22-16.43.50:523][  0]LogInit:  - we're running with rendering
+[2018.06.22-16.43.50:523][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz' (signature: 0x906E9)
+[2018.06.22-16.43.50:523][  0]LogInit:  - Number of physical cores available for the process: 4
+[2018.06.22-16.43.50:523][  0]LogInit:  - Number of logical cores available for the process: 8
+[2018.06.22-16.43.50:523][  0]LogInit:  - Cache line size: 64
+[2018.06.22-16.43.50:523][  0]LogInit:  - Memory allocator used: binned2
+[2018.06.22-16.43.50:523][  0]LogLinux: Benchmarking clocks:
+[2018.06.22-16.43.50:523][  0]LogLinux:  - CLOCK_REALTIME (id=0) can sustain 66895269 (66895K, 67M) calls per second without zero deltas.
+[2018.06.22-16.43.50:523][  0]LogLinux:  - CLOCK_MONOTONIC (id=1) can sustain 67992028 (67992K, 68M) calls per second without zero deltas.
+[2018.06.22-16.43.50:523][  0]LogLinux:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 4672029 (4672K, 5M) calls per second without zero deltas.
+[2018.06.22-16.43.50:523][  0]LogLinux:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 229800886 (229801K, 230M) calls per second with 99.999887% zero deltas.
+[2018.06.22-16.43.50:523][  0]LogLinux: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2018.06.22-16.43.50:523][  0]LogInit: Linux-specific commandline switches:
+[2018.06.22-16.43.50:523][  0]LogInit:  -nodwarf (currently OFF): suppress parsing of DWARF debug info (callstacks will be generated faster, but won't have line numbers)
+[2018.06.22-16.43.50:523][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2018.06.22-16.43.50:523][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2018.06.22-16.43.50:523][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2018.06.22-16.43.50:523][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2018.06.22-16.43.50:523][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2018.06.22-16.43.50:523][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2018.06.22-16.43.50:523][  0]LogInit:  - Physical RAM available (not considering process quota): 32 GB (32103 MB, 32873816 KB, 33662787584 bytes)
+[2018.06.22-16.43.50:601][  0]LogInit: Using OS detected language (en-US).
+[2018.06.22-16.43.50:601][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.22-16.43.50:607][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.22-16.43.50:943][  0]LogStreaming: Display: Took  0.343s to EndInitTextLocalization.
+[2018.06.22-16.43.51:174][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.22-16.43.51:174][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.22-16.43.52:085][  0]LogRHI: Initializing OpenGL RHI
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_VENDOR: NVIDIA Corporation
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_RENDERER: GeForce GTX 1080 Ti/PCIe/SSE2
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_VERSION: 4.3.0 NVIDIA 390.59
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.30 NVIDIA via Cg compiler
+[2018.06.22-16.43.52:085][  0]LogRHI: OpenGL Extensions:
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_AMD_multi_draw_indirect
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_AMD_vertex_shader_viewport_index
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_AMD_vertex_shader_layer
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_base_instance
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_bindless_texture
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_blend_func_extended
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_buffer_storage
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_clear_texture
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_clip_control
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_color_buffer_float
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_conservative_depth
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_compute_shader
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_compute_variable_group_size
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_copy_buffer
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_copy_image
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_cull_distance
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_debug_output
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_depth_clamp
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_depth_texture
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_derivative_control
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_direct_state_access
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_draw_buffers
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_draw_indirect
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_draw_instanced
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_ES3_2_compatibility
+[2018.06.22-16.43.52:085][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_fragment_program
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_fragment_program_shadow
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_fragment_shader
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_fragment_shader_interlock
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_framebuffer_object
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_geometry_shader4
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_get_program_binary
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_gl_spirv
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_gpu_shader5
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_gpu_shader_int64
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_half_float_pixel
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_half_float_vertex
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_imaging
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_indirect_parameters
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_instanced_arrays
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_internalformat_query
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_internalformat_query2
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_map_buffer_range
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_multi_bind
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_multisample
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_multitexture
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_occlusion_query
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_occlusion_query2
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_parallel_shader_compile
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_point_parameters
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_point_sprite
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_polygon_offset_clamp
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_post_depth_coverage
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_program_interface_query
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_provoking_vertex
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_query_buffer_object
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_robustness
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sample_locations
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sample_shading
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sampler_objects
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_atomic_counter_ops
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_ballot
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_clock
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_draw_parameters
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_group_vote
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_image_size
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_objects
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_precision
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_subroutine
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shading_language_100
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shader_viewport_layer_array
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shading_language_include
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shading_language_packing
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_shadow
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sparse_buffer
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sparse_texture
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sparse_texture2
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sparse_texture_clamp
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_spirv_extensions
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_stencil_texturing
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_sync
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_tessellation_shader
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_barrier
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_border_clamp
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_compression
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_cube_map
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_env_add
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_env_combine
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_env_crossbar
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_env_dot3
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_filter_anisotropic
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_filter_minmax
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_float
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_gather
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_mirrored_repeat
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_multisample
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_query_levels
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_query_lod
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_rectangle
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_rg
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_stencil8
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_storage
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_swizzle
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_texture_view
+[2018.06.22-16.43.52:086][  0]LogRHI:   GL_ARB_timer_query
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_transform_feedback2
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_transform_feedback3
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_transform_feedback_overflow_query
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_transpose_matrix
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_array_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_buffer_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_program
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_shader
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_viewport_array
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ARB_window_pos
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ATI_draw_buffers
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ATI_texture_float
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_ATI_texture_mirror_once
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_S3_s3tc
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_env_add
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_abgr
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_bgra
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_bindable_uniform
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_blend_color
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_blend_func_separate
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_blend_minmax
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_blend_subtract
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_compiled_vertex_array
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_Cg_shader
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_depth_bounds_test
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_direct_state_access
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_draw_buffers2
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_draw_instanced
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_draw_range_elements
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_fog_coord
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXTX_framebuffer_mixed_formats
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_framebuffer_multisample_blit_scaled
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_framebuffer_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_geometry_shader4
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_gpu_program_parameters
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_gpu_shader4
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_multi_draw_arrays
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_packed_float
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_packed_pixels
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_point_parameters
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_post_depth_coverage
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_provoking_vertex
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_raster_multisample
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_rescale_normal
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_secondary_color
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_separate_shader_objects
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_separate_specular_color
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_shader_image_load_formatted
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_shader_image_load_store
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_shadow_funcs
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_sparse_texture2
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_stencil_two_side
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_stencil_wrap
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture3D
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_array
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_buffer_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_compression_dxt1
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_compression_latc
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_cube_map
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_edge_clamp
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_env_combine
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_env_dot3
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_filter_minmax
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_integer
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_lod
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_lod_bias
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_mirror_clamp
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_sRGB
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_storage
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_texture_swizzle
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_timer_query
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_transform_feedback2
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_vertex_array
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_vertex_attrib_64bit
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_window_rectangles
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_x11_sync_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_import_sync_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_NV_robustness_video_memory_purge
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_IBM_rasterpos_clip
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_IBM_texture_mirrored_repeat
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KHR_context_flush_control
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KHR_debug
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_memory_object
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_memory_object_fd
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KHR_parallel_shader_compile
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KHR_no_error
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KHR_robustness
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_semaphore
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_EXT_semaphore_fd
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_KTX_buffer_region
+[2018.06.22-16.43.52:087][  0]LogRHI:   GL_NV_alpha_to_coverage_dither_control
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_bindless_multi_draw_indirect
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_bindless_multi_draw_indirect_count
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_bindless_texture
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_blend_equation_advanced
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_blend_equation_advanced_coherent
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NVX_blend_equation_advanced_multi_draw_buffers
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_blend_minmax_factor
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_blend_square
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_clip_space_w_scaling
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_command_list
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_compute_program5
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_conditional_render
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_conservative_raster
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_conservative_raster_dilate
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_conservative_raster_pre_snap_triangles
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_copy_depth_to_color
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_copy_image
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_depth_buffer_float
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_depth_clamp
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_draw_texture
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_draw_vulkan_image
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_ES1_1_compatibility
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_ES3_1_compatibility
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_explicit_multisample
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fence
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fill_rectangle
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_float_buffer
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fog_distance
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fragment_coverage_to_color
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fragment_program
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fragment_program_option
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fragment_program2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_fragment_shader_interlock
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_framebuffer_mixed_samples
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_framebuffer_multisample_coverage
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_geometry_shader4
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_geometry_shader_passthrough
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_gpu_program4
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_internalformat_sample_query
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_gpu_program4_1
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_gpu_program5
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_gpu_program5_mem_extended
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_gpu_program_fp64
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_gpu_shader5
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_half_float
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_light_max_exponent
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_multisample_coverage
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_multisample_filter_hint
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_occlusion_query
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_packed_depth_stencil
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_parameter_buffer_object
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_parameter_buffer_object2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_path_rendering
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_path_rendering_shared_edge
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_pixel_data_range
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_point_sprite
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_primitive_restart
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_query_resource
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_query_resource_tag
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_register_combiners
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_register_combiners2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_sample_locations
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_sample_mask_override_coverage
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_atomic_counters
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_atomic_float
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_atomic_float64
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_atomic_fp16_vector
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_atomic_int64
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_buffer_load
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_storage_buffer_object
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_stereo_view_rendering
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texgen_reflection
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_barrier
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_compression_vtc
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_env_combine4
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_multisample
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_rectangle
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_rectangle_compressed
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_shader
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_shader2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_texture_shader3
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_transform_feedback
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_transform_feedback2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_uniform_buffer_unified_memory
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vdpau_interop
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_array_range
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_array_range2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_attrib_integer_64bit
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_buffer_unified_memory
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_program
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_program1_1
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_program2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_program2_option
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_vertex_program3
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_viewport_array2
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_viewport_swizzle
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NVX_conditional_render
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NVX_gpu_memory_info
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NVX_nvenc_interop
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_thread_group
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_NV_shader_thread_shuffle
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_KHR_blend_equation_advanced
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_KHR_blend_equation_advanced_coherent
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_SGIS_generate_mipmap
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_SGIS_texture_lod
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_SGIX_depth_texture
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_SGIX_shadow
+[2018.06.22-16.43.52:088][  0]LogRHI:   GL_SUN_slice_accum
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 32768
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 32768
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 16384
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 32768
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_SAMPLES: 32
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 32
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 32
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 32
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 16
+[2018.06.22-16.43.52:130][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2018.06.22-16.43.52:130][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 3, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2018.06.22-16.43.52:148][  0]LogRHI: Texture pool is 7884 MB (70% of 11264 MB)
+[2018.06.22-16.43.52:148][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../danguafer/LightShow/Intermediate/Shaders/WorkingDirectory/13884/).
+[2018.06.22-16.43.52:148][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../danguafer/LightShow/Intermediate/Shaders/tmp/0003721C34060D16002B009484FA4B8D/'.
+[2018.06.22-16.43.52:149][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.22-16.43.53:412][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.22-16.43.53:478][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.22-16.43.53:544][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.22-16.43.53:616][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.22-16.43.53:675][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.22-16.43.53:740][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.22-16.43.53:805][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.22-16.43.53:875][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.22-16.43.53:941][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.22-16.43.54:006][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.22-16.43.54:075][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.22-16.43.54:205][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.22-16.43.54:205][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.22-16.43.54:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.22-16.43.54:334][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.22-16.43.54:334][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2018.06.22-16.43.54:561][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB ../../../../../danguafer/LightShow/DerivedDataCache/Boot.ddc.
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../danguafer/LightShow/DerivedDataCache/Boot.ddc
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../danguafer/LightShow/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.22-16.43.54:610][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.22-16.43.54:620][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2018.06.22-16.43.54:626][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.22-16.43.54:627][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2018.06.22-16.43.54:627][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2018.06.22-16.43.54:687][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2018.06.22-16.43.55:029][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.06.22-16.43.55:209][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.22-16.43.55:209][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.22-16.43.55:209][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.22-16.43.55:209][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2018.06.22-16.43.55:209][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.22-16.43.55:209][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2018.06.22-16.43.55:327][  0]LogNetVersion: LightShow , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3949070801)
+[2018.06.22-16.43.55:910][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.024491 seconds
+[2018.06.22-16.43.55:914][  0]LogUObjectArray: 36073 objects as part of root set at end of initial load.
+[2018.06.22-16.43.55:914][  0]LogUObjectAllocator: 7176912 out of 0 bytes used by permanent object pool.
+[2018.06.22-16.43.55:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.22-16.43.55:928][  0]LogModuleManager: Warning: No filename provided for module ALAudio
+[2018.06.22-16.43.55:928][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'ALAudio' because the file '/home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/' was not found.
+[2018.06.22-16.43.56:029][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2018.06.22-16.43.56:577][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.06.22-16.43.56:577][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.06.22-16.43.56:577][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:577][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:577][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:577][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:577][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.06.22-16.43.56:577][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.06.22-16.43.56:578][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:578][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:578][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:578][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:578][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.06.22-16.43.56:578][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.06.22-16.43.56:578][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:578][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:578][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:578][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:579][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.06.22-16.43.56:579][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.06.22-16.43.56:579][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:579][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:579][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.06.22-16.43.56:579][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.06.22-16.43.56:581][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.06.22-16.43.56:581][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.06.22-16.43.56:581][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:581][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:582][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:582][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:582][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.06.22-16.43.56:582][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.06.22-16.43.56:582][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:582][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:582][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:582][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:582][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.06.22-16.43.56:582][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.06.22-16.43.56:583][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:583][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:583][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:583][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:583][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.06.22-16.43.56:583][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.06.22-16.43.56:583][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:583][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:583][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:583][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:584][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.06.22-16.43.56:584][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.06.22-16.43.56:584][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:584][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:584][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:584][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:584][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.06.22-16.43.56:584][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.06.22-16.43.56:584][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:584][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:584][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.06.22-16.43.56:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.06.22-16.43.56:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.06.22-16.43.56:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.06.22-16.43.56:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:586][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:586][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:586][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.06.22-16.43.56:586][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.06.22-16.43.56:586][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:586][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.43.56:586][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.06.22-16.43.56:586][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.06.22-16.44.00:156][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.22-16.44.00:164][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.22-16.44.00:561][  0]SourceControl: Source control is disabled
+[2018.06.22-16.44.00:561][  0]SourceControl: Source control is disabled
+[2018.06.22-16.44.00:637][  0]SourceControl: Source control is disabled
+[2018.06.22-16.44.00:707][  0]SourceControl: Source control is disabled
+[2018.06.22-16.44.03:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.22-16.44.03:216][  0]LogEngine: Initializing Engine...
+[2018.06.22-16.44.03:217][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.22-16.44.03:217][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.22-16.44.03:217][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.22-16.44.03:700][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.44.03:706][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.44.03:707][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.44.03:711][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.44.04:195][  0]LogInit: FAudioDevice initialized.
+[2018.06.22-16.44.04:267][  0]LogDerivedDataCache: Saved boot cache 0.07s 89MB ../../../../../danguafer/LightShow/DerivedDataCache/Boot.ddc.
+[2018.06.22-16.44.04:338][  0]LogInit: Texture streaming: Enabled
+[2018.06.22-16.44.04:648][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.22-16.44.04:648][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0785CDA4-0B06-0D16-0028-037F77D9879A}
+[2018.06.22-16.44.04:905][  0]LogInit: Transaction tracking system initialized
+[2018.06.22-16.44.05:332][  0]BlueprintLog: New page: Editor Load
+[2018.06.22-16.44.06:412][  0]LocalizationService: Localization service is disabled
+[2018.06.22-16.44.07:101][  0]LogConsoleResponse: Display: 
+[2018.06.22-16.44.07:259][  0]LogFileCache: Scanning file cache for directory '/home/danguafer/dev/danguafer/LightShow/Content/' took 0.00s
+[2018.06.22-16.44.07:259][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.22-16.44.07:259][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.22-16.44.07:259][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.22-16.44.07:259][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.22-16.44.07:259][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.22-16.44.08:612][  0]SourceControl: Source control is disabled
+[2018.06.22-16.44.08:612][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.22-16.44.08:618][  0]LightingResults: New page: Lighting Build
+[2018.06.22-16.44.08:662][  0]MapCheck: New page: Map Check
+[2018.06.22-16.44.08:662][  0]LightingResults: New page: Lighting Build
+[2018.06.22-16.44.08:927][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.06.22-16.44.08:930][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.22-16.44.08:943][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.22-16.44.08:954][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10.983ms to complete.
+[2018.06.22-16.44.08:954][  0]LogFileHelpers: Loading map 'Template_Default' took 0.342
+[2018.06.22-16.44.08:980][  0]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.44.08:980][  0]LogLinux: Scale at X=992.500000, Y=552.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.44.08:985][  0]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.44.09:032][  0]LogCollectionManager: Loaded 0 collections in 0.000619 seconds
+[2018.06.22-16.44.09:044][  0]LogFileCache: Scanning file cache for directory '/home/danguafer/dev/danguafer/LightShow/Saved/Collections/' took 0.00s
+[2018.06.22-16.44.09:044][  0]LogFileCache: Scanning file cache for directory '/home/danguafer/dev/danguafer/LightShow/Content/Developers/danguafer/Collections/' took 0.00s
+[2018.06.22-16.44.09:044][  0]LogFileCache: Scanning file cache for directory '/home/danguafer/dev/danguafer/LightShow/Content/Collections/' took 0.00s
+[2018.06.22-16.44.09:044][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2423 classes and 536 folders.
+[2018.06.22-16.44.09:046][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.22-16.44.09:157][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.22-16.44.09:172][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.22-16.44.09:232][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.22-16.44.09:521][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.22-16.44.09:521][  0]LogLoad: (Engine Initialization) Total time: 20.77 seconds
+[2018.06.22-16.44.09:521][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.22-16.44.09:861][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.22-16.44.09:882][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.22-16.44.09:891][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.22-16.44.09:971][  0]LogInit: Adding external input plugin.
+[2018.06.22-16.44.09:985][  0]LogAssetRegistry: Asset discovery search completed in 15.2983 seconds
+[2018.06.22-16.44.09:986][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.22-16.44.09:986][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.06.22-16.44.09:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.22-16.44.10:032][  0]LogRenderer: Reallocating scene render targets to support 1400x588 Format 10 NumSamples 1 (Frame:1).
+[2018.06.22-16.44.10:117][  0]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.44.10:155][  0]LogSlate: Took 0.000026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.22-16.44.10:537][ 40]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.44.10:537][ 40]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.44.10:537][ 40]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.44.10:573][ 40]LogSlate: Took 0.000046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.22-16.44.10:778][ 50]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.33:306][689]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:217][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.54.34:291][795]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:291][795]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:291][795]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:390][795]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.34:390][795]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.54.34:534][795]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:534][795]LogLinux: Scale at X=997.500000, Y=557.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:578][795]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.54.34:586][795]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.54.34:597][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.34:597][795]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.54.34:644][795]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:644][795]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:644][795]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.34:716][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.54.34:737][795]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.34:777][795]LogMaterial: Missing cached shader map for material GeneratorMaterial, compiling. 
+[2018.06.22-16.54.34:782][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.34:782][795]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.54.34:882][795]LogMaterial: Missing cached shader map for material GeneratorMaterial, compiling. 
+[2018.06.22-16.54.34:887][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.34:891][795]LogMaterial: Missing cached shader map for material GeneratorMaterial, compiling. 
+[2018.06.22-16.54.34:970][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.35:016][795]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.35:016][795]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.35:017][795]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.35:083][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.54.35:098][795]LogMaterial: Missing cached shader map for material TubeMaterial, compiling. 
+[2018.06.22-16.54.35:105][795]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.54.35:121][795]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.35:246][795]LogMaterial: Missing cached shader map for material TubeMaterial, compiling. 
+[2018.06.22-16.54.35:253][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.35:253][795]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.54.35:257][795]LogMaterial: Missing cached shader map for material TubeMaterial, compiling. 
+[2018.06.22-16.54.35:265][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.35:298][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.06.22-16.54.35:332][795]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.22-16.54.35:335][795]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.54.35:335][795]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.54.35:339][795]LogSlate: Took 0.000053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.22-16.54.35:592][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.54.35:592][795]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.54.35:604][796]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.35:604][796]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.22-16.54.35:604][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.22-16.54.35:674][798]LogSlate: Took 0.000044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.22-16.54.41:237][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.54.41:237][431]PIE: New page: SIE session: Untitled_1 (Jun 22, 2018, 1:54:41 PM)
+[2018.06.22-16.54.41:237][431]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.06.22-16.54.41:239][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001839s)
+[2018.06.22-16.54.41:239][431]LogAIModule: Creating AISystem for world Untitled_1
+[2018.06.22-16.54.41:239][431]LogPlayLevel: PIE: World Init took: (0.000383s)
+[2018.06.22-16.54.41:239][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002322s)
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.54.41:246][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.54.41:247][431]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.54.41:247][431]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.54.41:690][431]LogInit: FAudioDevice initialized.
+[2018.06.22-16.54.41:691][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.54.41:752][431]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.54.41:755][431]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.06.22-13.54.41
+[2018.06.22-16.54.41:755][431]LogWorld: Bringing up level for play took: 0.000815
+[2018.06.22-16.54.41:817][431]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.22-16.54.41:817][431]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.58
+[2018.06.22-16.54.42:506][477]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.43:216][527]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6e978890, Size=8, Default__OriginalGenerator_C Function /LightShow/OriginalGenerator.OriginalGenerator_C:ExecuteUbergraph_OriginalGenerator
+[2018.06.22-16.54.43:219][527]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6e978890, Size=8
+[2018.06.22-16.54.43:219][527]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6e978890, Size=8, Default__OriginalGenerator_C Function /Engine/Transient.REINST_OriginalGenerator_C_9:ExecuteUbergraph_OriginalGenerator
+[2018.06.22-16.54.43:221][527]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6e979730, Size=8, Default__OriginalGenerator_C Function /LightShow/OriginalGenerator.OriginalGenerator_C:ExecuteUbergraph_OriginalGenerator
+[2018.06.22-16.54.43:223][527]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6e976040, Size=8, Default__Tube_C Function /LightShow/Tube.Tube_C:ExecuteUbergraph_Tube
+[2018.06.22-16.54.43:226][527]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6e976040, Size=8
+[2018.06.22-16.54.43:226][527]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6e976040, Size=8, Default__Tube_C Function /Engine/Transient.REINST_Tube_C_11:ExecuteUbergraph_Tube
+[2018.06.22-16.54.43:227][527]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6e979840, Size=8, Default__Tube_C Function /LightShow/Tube.Tube_C:ExecuteUbergraph_Tube
+[2018.06.22-16.54.43:276][527]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.43:276][527]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.43:276][527]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.45:847][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.22-16.54.47:364][837]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.47:364][837]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.47:385][837]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.47:435][837]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.47:490][837]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6b1b5fb0, Size=40, Default__Generator_C Function /LightShow/Generator.Generator_C:ExecuteUbergraph_Generator
+[2018.06.22-16.54.47:496][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6b1b5fb0, Size=40
+[2018.06.22-16.54.47:496][837]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6bc32c20, Size=40, Default__Generator_C Function /Engine/Transient.REINST_Generator_C_13:ExecuteUbergraph_Generator
+[2018.06.22-16.54.47:501][837]LogUObjectGlobals: Created PersistentFrame Addr=0x00007efb6b1bd810, Size=40, Default__Generator_C Function /LightShow/Generator.Generator_C:ExecuteUbergraph_Generator
+[2018.06.22-16.54.47:533][837]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.54.47:535][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_9 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_9 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_15
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:535][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_7 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_7 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_15
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:535][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_11 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_11 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_15
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:536][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_9 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_9 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_16
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:536][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_7 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_7 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_16
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:536][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_11 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_11 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_16
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:537][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_11 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_11 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_19
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:537][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_11 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_11 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_20
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.47:548][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6e978890, Size=8
+[2018.06.22-16.54.47:548][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6e976040, Size=8
+[2018.06.22-16.54.47:549][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6bc32c20, Size=40
+[2018.06.22-16.54.47:551][837]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.47:551][837]LogLinux: Scale at X=655.000000, Y=323.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.47:553][837]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.54.47:619][837]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.54.48:505][837]LogSlate: Window 'Save Content' being destroyed
+[2018.06.22-16.54.48:522][837]Cmd: MAP LOAD FILE="../../../../../danguafer/LightShow/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.22-16.54.48:526][837]LightingResults: New page: Lighting Build
+[2018.06.22-16.54.48:529][837]LoadErrors: New page: Loading map: NewMap.umap
+[2018.06.22-16.54.48:568][837]MapCheck: New page: Map Check
+[2018.06.22-16.54.48:568][837]LightingResults: New page: Lighting Build
+[2018.06.22-16.54.48:582][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_25 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_25 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_30
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:582][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_26 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_26 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_30
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:582][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_27 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_27 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_30
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:582][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_25 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_25 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_31
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:582][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_26 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_26 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_31
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:582][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_27 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_27 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_31
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:584][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_27 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_27 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.Connector_GEN_VARIABLE_Connector_C_CAT_34
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:584][837]LogScript: Warning: Attempted to access DESTROYED_Connector_C_CHILDACTOR_27 via property CallFunc_Array_Get_Item1, but DESTROYED_Connector_C_CHILDACTOR_27 is pending kill
+	Connector_C /Game/NewMap.NewMap:PersistentLevel.ChildActor_GEN_VARIABLE_Connector_C_CAT_35
+	Function /LightShow/Connector.Connector_C:UserConstructionScript:0419
+[2018.06.22-16.54.48:632][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.22-16.54.48:648][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.22-16.54.48:659][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.531ms to complete.
+[2018.06.22-16.54.48:659][837]LogFileHelpers: Loading map 'NewMap' took 0.138
+[2018.06.22-16.54.50:889][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.54.50:890][ 71]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:54:50 PM)
+[2018.06.22-16.54.50:890][ 71]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.54.50:892][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002404s)
+[2018.06.22-16.54.50:892][ 71]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.54.50:892][ 71]LogPlayLevel: PIE: World Init took: (0.000384s)
+[2018.06.22-16.54.50:892][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002886s)
+[2018.06.22-16.54.50:898][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.54.50:899][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.54.50:899][ 71]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.54.51:335][ 71]LogInit: FAudioDevice initialized.
+[2018.06.22-16.54.51:336][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.54.51:413][ 71]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.54.51:415][ 71]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.54.51
+[2018.06.22-16.54.51:416][ 71]LogWorld: Bringing up level for play took: 0.001987
+[2018.06.22-16.54.51:419][ 71]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.529
+[2018.06.22-16.54.53:589][280]LogEditorViewport: Clicking on Actor (LMB): Generator_C (Generator)
+[2018.06.22-16.54.56:437][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.22-16.54.56:914][609]LogEditorViewport: Clicking on Actor (LMB): Tube_C (Tube2)
+[2018.06.22-16.55.00:780][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.22-16.55.01:083][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.55.01:083][ 65]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:55:01 PM)
+[2018.06.22-16.55.01:083][ 65]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.55.01:086][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002494s)
+[2018.06.22-16.55.01:086][ 65]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.55.01:086][ 65]LogPlayLevel: PIE: World Init took: (0.000317s)
+[2018.06.22-16.55.01:086][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002894s)
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.55.01:094][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.55.01:095][ 65]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.55.01:095][ 65]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.55.01:510][ 65]LogInit: FAudioDevice initialized.
+[2018.06.22-16.55.01:510][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.55.01:581][ 65]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.55.01:584][ 65]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.55.01
+[2018.06.22-16.55.01:584][ 65]LogWorld: Bringing up level for play took: 0.001964
+[2018.06.22-16.55.01:587][ 65]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.506
+[2018.06.22-16.55.04:117][307]LogEditorViewport: Clicking on Actor (LMB): Generator_C (Generator)
+[2018.06.22-16.55.05:098][384]LogLinux: Scale at X=1766.000000, Y=436.900024: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.05:120][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.55.05:157][386]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.07:377][551]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.22-16.55.07:642][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.55.07:642][577]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:55:07 PM)
+[2018.06.22-16.55.07:642][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.55.07:644][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002316s)
+[2018.06.22-16.55.07:645][577]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.55.07:645][577]LogPlayLevel: PIE: World Init took: (0.000324s)
+[2018.06.22-16.55.07:645][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002722s)
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.55.07:650][577]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.55.07:650][577]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.55.08:061][577]LogInit: FAudioDevice initialized.
+[2018.06.22-16.55.08:061][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.55.08:145][577]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.55.08:152][577]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.55.08
+[2018.06.22-16.55.08:153][577]LogWorld: Bringing up level for play took: 0.004607
+[2018.06.22-16.55.08:159][577]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.519
+[2018.06.22-16.55.12:247][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.22-16.55.12:558][ 72]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.12:558][ 72]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.12:558][ 72]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.12:622][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.55.12:638][ 72]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.12:668][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../danguafer/LightShow/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.22-16.55.12:701][ 72]LogSavePackage: Save=23.52ms
+[2018.06.22-16.55.12:701][ 72]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/NewMap1CC956640C060D16003702A6AD8A5C91.tmp' to '../../../../../danguafer/LightShow/Content/NewMap.umap'
+[2018.06.22-16.55.12:702][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/NewMap.umap
+[2018.06.22-16.55.12:713][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../danguafer/LightShow/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.06.22-16.55.12:729][ 72]LogSavePackage: Save=12.94ms
+[2018.06.22-16.55.12:729][ 72]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/NewMap_BuiltData1CCBFC390C060D16003702CCAD8AE823.tmp' to '../../../../../danguafer/LightShow/Content/NewMap_BuiltData.uasset'
+[2018.06.22-16.55.12:729][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/NewMap_BuiltData.uasset
+[2018.06.22-16.55.16:158][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.22-16.55.24:624][268]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.24:624][268]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.24:624][268]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.24:736][269]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.25:514][317]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.25:528][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.25:528][318]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.25:917][328]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.26:458][369]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.06.22-16.55.26:478][371]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.26:790][382]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.26:790][382]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.26:790][382]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.26:881][383]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.27:108][391]LogLinux: Scale at X=1168.000000, Y=761.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.27:170][393]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.28:430][537]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.28:439][537]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.28:506][538]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.28:506][538]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.28:758][562]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.31:433][821]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.31:481][822]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.31:481][822]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.31:720][846]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.32:037][881]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.32:087][882]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.32:087][882]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.32:359][897]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.32:573][919]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.32:622][920]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.32:622][920]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.32:852][932]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.35:594][216]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.35:603][216]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.35:616][217]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.35:616][217]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.35:908][245]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.39:319][599]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.39:327][599]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.39:340][600]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.39:340][600]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.39:625][628]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.40:407][710]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.40:420][711]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.40:420][711]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.40:719][739]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.42:455][923]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.42:464][923]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.42:478][924]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.42:478][924]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.42:801][958]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.44:134][ 82]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.44:147][ 83]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.44:147][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.44:493][111]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.44:757][132]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.44:825][133]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.44:825][133]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.45:075][147]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.47:894][455]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.47:904][455]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.47:917][456]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.47:917][456]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.48:179][482]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.49:274][581]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.49:287][582]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.49:287][582]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.53:470][958]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.53:470][958]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.53:471][958]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.53:573][959]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.54:604][ 18]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.54:619][ 19]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.54:619][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.54:889][ 30]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.55:473][ 87]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.55:473][ 87]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.55:473][ 87]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.55:583][ 88]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.56:194][137]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.56:209][138]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.56:209][138]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.56:487][147]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.56:556][151]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.56:556][151]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.56:556][151]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.56:675][152]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.55.57:430][206]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.57:446][207]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.57:446][207]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.57:774][229]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.55.58:805][341]LogMaterialEditor: Saving and Compiling material Test
+[2018.06.22-16.55.59:766][341]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.55.59:778][341]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.59:778][341]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.59:779][341]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.55.59:800][341]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.55.59:800][341]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.55.59:871][341]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.00:005][341]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.00:010][341]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.00:017][341]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.00:022][341]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.00:041][341]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Test, compiling. 
+[2018.06.22-16.56.00:046][341]TextureStreamingBuild: Display: Compiling optional shaders took 0.012 seconds.
+[2018.06.22-16.56.00:090][341]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.00:090][341]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.00:093][341]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.00:144][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.00:150][341]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.00:551][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../danguafer/LightShow/Content/Test.uasset" SILENT=true
+[2018.06.22-16.56.00:568][341]LogSavePackage: Save=14.85ms
+[2018.06.22-16.56.00:568][341]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/Test1D472F9A00060D1600380229B064E6EE.tmp' to '../../../../../danguafer/LightShow/Content/Test.uasset'
+[2018.06.22-16.56.00:569][341]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/Test.uasset
+[2018.06.22-16.56.01:556][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.56.01:556][444]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:56:01 PM)
+[2018.06.22-16.56.01:556][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.56.01:559][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002416s)
+[2018.06.22-16.56.01:559][444]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.56.01:559][444]LogPlayLevel: PIE: World Init took: (0.000346s)
+[2018.06.22-16.56.01:559][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002853s)
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.56.01:565][444]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.56.01:565][444]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.56.02:018][444]LogInit: FAudioDevice initialized.
+[2018.06.22-16.56.02:018][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.02:094][444]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.56.02:096][444]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.56.02
+[2018.06.22-16.56.02:097][444]LogWorld: Bringing up level for play took: 0.001760
+[2018.06.22-16.56.02:100][444]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.542
+[2018.06.22-16.56.13:230][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.18:539][177]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.18:539][177]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.18:539][177]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.18:632][178]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.18:907][190]LogLinux: Scale at X=790.000000, Y=659.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.18:971][192]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.20:534][376]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.20:542][376]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.20:591][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.20:591][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.20:938][413]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.56.21:997][517]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.21:998][517]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.21:998][517]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.22:047][518]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.22:765][547]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.22:794][548]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.22:794][548]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.23:106][553]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.56.23:356][567]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.23:356][567]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.23:356][567]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.23:447][568]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.24:065][604]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.24:085][606]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.24:085][606]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.24:363][626]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.56.25:346][733]LogMaterialEditor: Saving and Compiling material Test
+[2018.06.22-16.56.26:278][733]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.26:290][733]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.26:290][733]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.26:290][733]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.26:294][733]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.26:294][733]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.26:320][733]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.26:379][733]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.26:384][733]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.26:389][733]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.26:394][733]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.26:414][733]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Test, compiling. 
+[2018.06.22-16.56.26:419][733]TextureStreamingBuild: Display: Compiling optional shaders took 0.013 seconds.
+[2018.06.22-16.56.26:452][733]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.26:452][733]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.26:452][733]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.26:489][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.26:491][733]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.26:949][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../danguafer/LightShow/Content/Test.uasset" SILENT=true
+[2018.06.22-16.56.26:966][733]LogSavePackage: Save=14.96ms
+[2018.06.22-16.56.26:966][733]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/Test1D81CDA81A060D16003803B7B1F7ACBC.tmp' to '../../../../../danguafer/LightShow/Content/Test.uasset'
+[2018.06.22-16.56.26:966][733]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/Test.uasset
+[2018.06.22-16.56.27:501][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.56.27:501][790]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:56:27 PM)
+[2018.06.22-16.56.27:501][790]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.56.27:504][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002384s)
+[2018.06.22-16.56.27:504][790]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.56.27:504][790]LogPlayLevel: PIE: World Init took: (0.000339s)
+[2018.06.22-16.56.27:504][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002822s)
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.56.27:509][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.56.27:510][790]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.56.27:510][790]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.56.27:952][790]LogInit: FAudioDevice initialized.
+[2018.06.22-16.56.27:952][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.28:009][790]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.56.28:011][790]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.56.28
+[2018.06.22-16.56.28:011][790]LogWorld: Bringing up level for play took: 0.001114
+[2018.06.22-16.56.28:013][790]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.514
+[2018.06.22-16.56.31:515][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.56.31:515][178]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:56:31 PM)
+[2018.06.22-16.56.31:516][178]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.56.31:518][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002417s)
+[2018.06.22-16.56.31:518][178]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.56.31:518][178]LogPlayLevel: PIE: World Init took: (0.000321s)
+[2018.06.22-16.56.31:518][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002825s)
+[2018.06.22-16.56.31:523][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.56.31:523][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.56.31:524][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.56.31:524][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.56.31:524][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.56.31:524][178]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.56.31:524][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.56.31:524][178]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.56.31:524][178]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.56.31:636][178]LogInit: FAudioDevice initialized.
+[2018.06.22-16.56.31:636][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.31:714][178]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.56.31:717][178]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.56.31
+[2018.06.22-16.56.31:718][178]LogWorld: Bringing up level for play took: 0.002219
+[2018.06.22-16.56.31:722][178]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.207
+[2018.06.22-16.56.34:916][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.56.34:916][505]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:56:34 PM)
+[2018.06.22-16.56.34:916][505]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.56.34:919][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002322s)
+[2018.06.22-16.56.34:919][505]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.56.34:919][505]LogPlayLevel: PIE: World Init took: (0.000328s)
+[2018.06.22-16.56.34:919][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002733s)
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.56.34:925][505]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.56.34:925][505]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.56.35:026][505]LogInit: FAudioDevice initialized.
+[2018.06.22-16.56.35:110][505]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.56.35:116][505]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.56.35
+[2018.06.22-16.56.35:117][505]LogWorld: Bringing up level for play took: 0.003806
+[2018.06.22-16.56.35:123][505]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.206
+[2018.06.22-16.56.40:019][ 18]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTime_0, compiling. 
+[2018.06.22-16.56.40:024][ 19]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.40:025][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.44:006][382]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.44:010][382]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.44:011][382]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.44:287][403]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.56.48:699][910]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.48:708][910]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.48:719][911]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.48:719][911]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.49:026][945]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.56.49:677][ 23]LogMaterialEditor: Saving and Compiling material Test
+[2018.06.22-16.56.50:625][ 23]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.50:637][ 23]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.50:637][ 23]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.50:638][ 23]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.50:667][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.50:667][ 23]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.50:756][ 23]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.50:817][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.50:817][ 23]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.56.50:853][ 23]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.50:890][ 23]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.50:895][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.50:899][ 23]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.56.50:904][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.56.50:929][ 23]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Test, compiling. 
+[2018.06.22-16.56.50:933][ 23]TextureStreamingBuild: Display: Compiling optional shaders took 0.012 seconds.
+[2018.06.22-16.56.51:022][ 23]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.51:022][ 23]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.51:023][ 23]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.56.51:051][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.51:057][ 23]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.56.51:449][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../danguafer/LightShow/Content/Test.uasset" SILENT=true
+[2018.06.22-16.56.51:467][ 23]LogSavePackage: Save=15.66ms
+[2018.06.22-16.56.51:467][ 23]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/Test1DE1778A33060D16003801C3B36D82F5.tmp' to '../../../../../danguafer/LightShow/Content/Test.uasset'
+[2018.06.22-16.56.51:467][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/Test.uasset
+[2018.06.22-16.56.52:505][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.56.52:505][140]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:56:52 PM)
+[2018.06.22-16.56.52:505][140]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.56.52:507][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002371s)
+[2018.06.22-16.56.52:507][140]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.56.52:507][140]LogPlayLevel: PIE: World Init took: (0.000318s)
+[2018.06.22-16.56.52:507][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002779s)
+[2018.06.22-16.56.52:512][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.56.52:513][140]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.56.52:513][140]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.56.52:944][140]LogInit: FAudioDevice initialized.
+[2018.06.22-16.56.52:945][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.56.53:010][140]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.56.53:013][140]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.56.53
+[2018.06.22-16.56.53:013][140]LogWorld: Bringing up level for play took: 0.001921
+[2018.06.22-16.56.53:016][140]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.513
+[2018.06.22-16.57.00:331][919]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.00:331][919]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.00:331][919]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.00:402][920]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.00:912][962]LogLinux: Scale at X=759.000000, Y=628.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.00:971][964]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.02:908][180]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.02:908][180]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.02:908][180]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.03:002][181]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.03:135][184]LogLinux: Scale at X=778.000000, Y=636.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.03:220][186]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.04:970][391]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.04:979][391]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.05:036][392]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.05:036][392]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.57.05:255][414]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.57.06:352][507]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.06:352][507]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.06:352][507]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.06:436][508]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.07:047][553]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.07:096][554]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.07:096][554]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.57.07:342][566]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.57.09:078][722]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.09:166][723]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.09:166][723]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.57.09:450][746]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.57.09:622][757]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.09:623][757]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.09:623][757]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.09:745][758]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.10:344][816]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.10:357][817]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.10:357][817]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.57.10:905][860]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.22-16.57.11:468][906]LogMaterialEditor: Saving and Compiling material Test
+[2018.06.22-16.57.12:409][906]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.12:420][906]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.12:420][906]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.12:421][906]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.12:425][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.12:425][906]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.22-16.57.12:472][906]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.12:487][906]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.12:492][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.12:496][906]LogMaterial: Missing cached shader map for material Test, compiling. 
+[2018.06.22-16.57.12:502][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.22-16.57.12:520][906]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Test, compiling. 
+[2018.06.22-16.57.12:524][906]TextureStreamingBuild: Display: Compiling optional shaders took 0.013 seconds.
+[2018.06.22-16.57.12:568][906]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.12:569][906]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.12:569][906]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.22-16.57.12:600][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.57.12:621][906]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.22-16.57.13:174][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../danguafer/LightShow/Content/Test.uasset" SILENT=true
+[2018.06.22-16.57.13:191][906]LogSavePackage: Save=14.39ms
+[2018.06.22-16.57.13:191][906]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/Test1E20B4B00D060D16003900B0B4B903BD.tmp' to '../../../../../danguafer/LightShow/Content/Test.uasset'
+[2018.06.22-16.57.13:191][906]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/Test.uasset
+[2018.06.22-16.57.13:700][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.57.13:701][964]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:57:13 PM)
+[2018.06.22-16.57.13:701][964]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.57.13:703][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002427s)
+[2018.06.22-16.57.13:703][964]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.57.13:704][964]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2018.06.22-16.57.13:704][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002971s)
+[2018.06.22-16.57.13:709][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.57.13:709][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.57.13:710][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.57.13:710][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.57.13:710][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.57.13:710][964]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.57.13:710][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.57.13:710][964]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.57.13:710][964]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.57.14:143][964]LogInit: FAudioDevice initialized.
+[2018.06.22-16.57.14:143][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-16.57.14:215][964]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.57.14:219][964]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.57.14
+[2018.06.22-16.57.14:220][964]LogWorld: Bringing up level for play took: 0.003308
+[2018.06.22-16.57.14:225][964]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.522
+[2018.06.22-16.57.18:680][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.57.18:680][465]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:57:18 PM)
+[2018.06.22-16.57.18:680][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.57.18:682][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002293s)
+[2018.06.22-16.57.18:682][465]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.57.18:682][465]LogPlayLevel: PIE: World Init took: (0.000322s)
+[2018.06.22-16.57.18:682][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002698s)
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.57.18:688][465]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.57.18:688][465]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.57.18:800][465]LogInit: FAudioDevice initialized.
+[2018.06.22-16.57.18:873][465]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.57.18:875][465]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.57.18
+[2018.06.22-16.57.18:876][465]LogWorld: Bringing up level for play took: 0.001407
+[2018.06.22-16.57.18:878][465]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.199
+[2018.06.22-16.57.20:709][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.22-16.57.20:709][659]PIE: New page: SIE session: NewMap (Jun 22, 2018, 1:57:20 PM)
+[2018.06.22-16.57.20:709][659]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.06.22-16.57.20:712][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002560s)
+[2018.06.22-16.57.20:712][659]LogAIModule: Creating AISystem for world NewMap
+[2018.06.22-16.57.20:712][659]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2018.06.22-16.57.20:712][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003115s)
+[2018.06.22-16.57.20:717][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.06.22-16.57.20:718][659]LogAudioMixer: Display: Initializing audio mixer.
+[2018.06.22-16.57.20:718][659]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.06.22-16.57.20:805][659]LogInit: FAudioDevice initialized.
+[2018.06.22-16.57.20:855][659]LogLoad: Game class is 'GameModeBase'
+[2018.06.22-16.57.20:858][659]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.06.22-13.57.20
+[2018.06.22-16.57.20:859][659]LogWorld: Bringing up level for play took: 0.002056
+[2018.06.22-16.57.20:862][659]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.152
+[2018.06.22-17.12.09:940][362]LogHttp: Warning: 0x7efb6dc4fb80: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0785015B-0406-0D16-002C-017885B4E6CF%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.19.2-0%2B%2B%2BUE4%2BRelease-4.19&UserID=0002846f26040719002800dbe6d3e929%7C%7C04dfe4504f14451bb184c22359d8eb0c&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: request failed, libcurl error: 0 (No error)
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x7efb68628b30 [can pipeline])
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.231.138.22) port 443 (#1))
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: libcurl info message cache 3 (upload completely sent off: 355 out of 355 bytes)
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: libcurl info message cache 4 (Closing connection 1)
+[2018.06.22-17.12.09:968][363]LogHttp: Warning: 0x7efb6dc4fb80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.06.23-00.57.30:900][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-00.57.31:009][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../danguafer/LightShow/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.23-00.57.31:039][984]LogSavePackage: Save=22.90ms
+[2018.06.23-00.57.31:039][984]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/NewMap1E5C24C51F061516003900116A665B69.tmp' to '../../../../../danguafer/LightShow/Content/NewMap.umap'
+[2018.06.23-00.57.31:040][984]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/NewMap.umap
+[2018.06.23-00.57.31:051][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../danguafer/LightShow/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.06.23-00.57.31:063][984]LogSavePackage: Save=9.97ms
+[2018.06.23-00.57.31:063][984]LogSavePackage: Moving '../../../../../danguafer/LightShow/Saved/NewMap_BuiltData1E5E89DC1F061516003900356A66EBBF.tmp' to '../../../../../danguafer/LightShow/Content/NewMap_BuiltData.uasset'
+[2018.06.23-00.57.31:064][984]LogSavePackage: Display: Finished SavePackage ../../../../../danguafer/LightShow/Content/NewMap_BuiltData.uasset
+[2018.06.23-00.58.08:486][152]LogLinux: Scale at X=647.000000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.23-00.58.08:534][154]LogLinux: Setting swap interval to 'Immediate'
+[2018.06.24-16.26.30:989][827]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.24-16.26.30:989][827]LogSlate: Window 'Test' being destroyed
+[2018.06.24-16.26.30:991][827]LogSlate: Window 'Test' being destroyed
+[2018.06.24-16.26.32:446][994]LogLinux: Scale at X=65.000000, Y=24.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.06.24-16.26.32:475][994]LogSlate: Window 'LightShow - Unreal Editor' being destroyed
+[2018.06.24-16.26.32:662][995]Cmd: QUIT_EDITOR
+[2018.06.24-16.26.32:704][995]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.24-16.26.32:705][995]LogExit: Preparing to exit.
+[2018.06.24-16.26.33:215][995]LogExit: Editor shut down
+[2018.06.24-16.26.33:216][995]LogExit: Transaction tracking system shut down
+[2018.06.24-16.26.33:217][995]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6e979730, Size=8
+[2018.06.24-16.26.33:217][995]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6e979840, Size=8
+[2018.06.24-16.26.33:217][995]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00007efb6b1bd810, Size=40
+[2018.06.24-16.26.33:377][995]LogExit: Object subsystem successfully closed.
+[2018.06.24-16.26.33:390][995]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.24-16.26.33:427][995]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (524)
+[2018.06.24-16.26.33:428][995]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (522)
+[2018.06.24-16.26.33:428][995]LogModuleManager: Shutting down and abandoning module DesktopPlatform (520)
+[2018.06.24-16.26.33:428][995]LogModuleManager: Shutting down and abandoning module SceneOutliner (518)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module AddContentDialog (516)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module WidgetCarousel (515)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module EditorWidgets (512)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module CollectionManager (510)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (508)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module StatsViewer (506)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module FoliageEdit (504)
+[2018.06.24-16.26.33:429][995]LogModuleManager: Shutting down and abandoning module LandscapeEditor (502)
+[2018.06.24-16.26.33:430][995]LogModuleManager: Shutting down and abandoning module MeshPaintMode (500)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (498)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module ActorPickerMode (496)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module GeometryMode (494)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module TextureAlignMode (492)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module BspMode (490)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (488)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module HardwareSurvey (486)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (484)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module SequenceRecorder (482)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module AutomationWorker (480)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (478)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module PlacementMode (477)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module MaterialEditor (476)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (472)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2018.06.24-16.26.33:431][995]LogModuleManager: Shutting down and abandoning module CharacterAI (468)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (466)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (464)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (462)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (460)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (458)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (456)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (454)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (452)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (450)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module SessionServices (448)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module ViewportSnapping (446)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module ViewportInteraction (444)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module ClothPainter (442)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (441)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module LogVisualizer (438)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module IntroTutorials (436)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (435)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (432)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (430)
+[2018.06.24-16.26.33:432][995]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (429)
+[2018.06.24-16.26.34:297][995]LogModuleManager: Shutting down and abandoning module LinuxPlatformEditor (426)
+[2018.06.24-16.26.34:297][995]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (424)
+[2018.06.24-16.26.34:297][995]LogModuleManager: Shutting down and abandoning module InputBindingEditor (422)
+[2018.06.24-16.26.34:298][995]LogModuleManager: Shutting down and abandoning module MergeActors (420)
+[2018.06.24-16.26.34:298][995]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (418)
+[2018.06.24-16.26.34:298][995]LogModuleManager: Shutting down and abandoning module LocalizationService (417)
+[2018.06.24-16.26.34:298][995]LogModuleManager: Shutting down and abandoning module HardwareTargeting (414)
+[2018.06.24-16.26.34:298][995]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (412)
+[2018.06.24-16.26.34:299][995]LogModuleManager: Shutting down and abandoning module UndoHistory (410)
+[2018.06.24-16.26.34:299][995]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2018.06.24-16.26.34:299][995]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2018.06.24-16.26.34:299][995]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2018.06.24-16.26.34:299][995]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2018.06.24-16.26.34:300][995]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2018.06.24-16.26.34:331][995]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2018.06.24-16.26.34:331][995]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2018.06.24-16.26.34:331][995]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2018.06.24-16.26.34:331][995]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2018.06.24-16.26.34:331][995]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2018.06.24-16.26.34:332][995]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2018.06.24-16.26.34:332][995]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2018.06.24-16.26.34:332][995]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2018.06.24-16.26.34:332][995]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2018.06.24-16.26.34:332][995]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2018.06.24-16.26.34:333][995]LogModuleManager: Shutting down and abandoning module GraphEditor (366)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module ClassViewer (364)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module Toolbox (362)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module ModuleUI (360)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module MovieSceneTools (358)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module OutputLog (356)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module GammaUI (354)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module Documentation (352)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (350)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module MovieScene (348)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (346)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module LauncherPlatform (344)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2018.06.24-16.26.34:334][995]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2018.06.24-16.26.34:335][995]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2018.06.24-16.26.34:335][995]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2018.06.24-16.26.34:335][995]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2018.06.24-16.26.34:335][995]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2018.06.24-16.26.34:335][995]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module AndroidPermission (322)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (318)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module CableComponent (316)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module SteamVRController (314)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (312)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (310)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (302)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module CryptoKeys (300)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (298)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module AlembicImporter (288)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module AlembicLibrary (287)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module GeometryCache (286)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (285)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (280)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module MediaCompositing (278)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module LinearTimecode (276)
+[2018.06.24-16.26.34:555][995]LogModuleManager: Shutting down and abandoning module ImgMedia (274)
+[2018.06.24-16.26.34:556][995]LogModuleManager: Shutting down and abandoning module Media (273)
+[2018.06.24-16.26.34:561][995]LogModuleManager: Shutting down and abandoning module DatasmithContent (270)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (268)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (266)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module GitSourceControl (262)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module KDevelopSourceCodeAccess (260)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (258)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module SourceControl (257)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module CodeLiteSourceCodeAccess (254)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (252)
+[2018.06.24-16.26.34:562][995]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (250)
+[2018.06.24-16.26.34:563][995]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (248)
+[2018.06.24-16.26.34:563][995]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (246)
+[2018.06.24-16.26.34:563][995]LogModuleManager: Shutting down and abandoning module ActorSequence (244)
+[2018.06.24-16.26.34:563][995]LogModuleManager: Shutting down and abandoning module TcpMessaging (242)
+[2018.06.24-16.26.34:663][995]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2018.06.24-16.26.34:763][995]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (238)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module PhysXVehicles (236)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (234)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (232)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (230)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (228)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module TreeMap (225)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module DataValidation (222)
+[2018.06.24-16.26.34:764][995]LogModuleManager: Shutting down and abandoning module LevelEditor (221)
+[2018.06.24-16.26.34:767][995]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (220)
+[2018.06.24-16.26.34:767][995]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (218)
+[2018.06.24-16.26.34:767][995]LogModuleManager: Shutting down and abandoning module MainFrame (216)
+[2018.06.24-16.26.34:767][995]LogModuleManager: Shutting down and abandoning module HotReload (215)
+[2018.06.24-16.26.34:768][995]LogModuleManager: Shutting down and abandoning module ContentBrowser (211)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (208)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (206)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module FacialAnimation (204)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module Paper2D (202)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module NullSourceCodeAccess (200)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (198)
+[2018.06.24-16.26.34:770][995]LogModuleManager: Shutting down and abandoning module LiveLink (196)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (194)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module PacketHandler (192)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (190)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (188)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module MediaAssets (186)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module Overlay (184)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module OverlayEditor (183)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module VREditor (180)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module StringTableEditor (178)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (176)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (174)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module FunctionalTesting (172)
+[2018.06.24-16.26.35:582][995]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (170)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (169)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module UMG (166)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module UMGEditor (165)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module Sequencer (164)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module MessageLog (161)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module SlateReflector (156)
+[2018.06.24-16.26.35:583][995]LogModuleManager: Shutting down and abandoning module Slate (154)
+[2018.06.24-16.26.35:584][995]LogModuleManager: Shutting down and abandoning module EditorStyle (152)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module MRMesh (150)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module Messaging (148)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (146)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (144)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module AudioMixerSDL (142)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module Networking (139)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module Core (135)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module LevelSequence (133)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module KismetCompiler (131)
+[2018.06.24-16.26.35:589][995]LogModuleManager: Shutting down and abandoning module MeshUtilities (129)
+[2018.06.24-16.26.35:590][995]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (128)
+[2018.06.24-16.26.35:590][995]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (127)
+[2018.06.24-16.26.35:590][995]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (126)
+[2018.06.24-16.26.35:590][995]LogModuleManager: Shutting down and abandoning module MaterialBaking (122)
+[2018.06.24-16.26.35:590][995]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2018.06.24-16.26.35:726][995]LogModuleManager: Shutting down and abandoning module DerivedDataCache (115)
+[2018.06.24-16.26.35:744][995]LogDerivedDataCache: Shutdown
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module TargetPlatform (113)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (112)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (110)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (108)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (106)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (104)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (102)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (100)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (98)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module ImageWrapper (97)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (94)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (92)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (90)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (88)
+[2018.06.24-16.26.35:744][995]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (86)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (84)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (82)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (80)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (78)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (76)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (74)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (72)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (70)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (68)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (66)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (64)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (62)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (60)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module InputCore (57)
+[2018.06.24-16.26.35:745][995]LogModuleManager: Shutting down and abandoning module Settings (55)
+[2018.06.24-16.26.35:746][995]LogModuleManager: Shutting down and abandoning module PhysXCooking (53)
+[2018.06.24-16.26.35:746][995]LogModuleManager: Shutting down and abandoning module LinuxDeviceProfileSelector (51)
+[2018.06.24-16.26.35:746][995]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (49)
+[2018.06.24-16.26.35:746][995]LogModuleManager: Shutting down and abandoning module SteamVR (47)
+[2018.06.24-16.26.35:746][995]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (45)
+[2018.06.24-16.26.35:746][995]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2018.06.24-16.26.35:746][995]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.24-16.26.35:746][995]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0785015B-0406-0D16-002C-017885B4E6CF%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.19.2-0%2B%2B%2BUE4%2BRelease-4.19&UserID=0002846f26040719002800dbe6d3e929%7C%7C04dfe4504f14451bb184c22359d8eb0c&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2018.06.24-16.26.35:758][995]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2018.06.24-16.26.35:761][995]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (38)
+[2018.06.24-16.26.35:761][995]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.06.24-16.26.35:761][995]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.06.24-16.26.35:761][995]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.06.24-16.26.35:762][995]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.06.24-16.26.35:762][995]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.06.24-16.26.35:762][995]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.06.24-16.26.35:762][995]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.06.24-16.26.35:763][995]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.06.24-16.26.35:763][995]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.24-16.26.35:763][995]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.24-16.26.35:763][995]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.24-16.26.35:763][995]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.24-16.26.35:763][995]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.24-16.26.35:764][995]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.24-16.26.35:764][995]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.24-16.26.35:764][995]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.24-16.26.35:764][995]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.24-16.26.35:766][995]LogExit: Exiting.
+[2018.06.24-16.26.35:766][995]LogInit: Tearing down SDL.
+[2018.06.24-16.26.35:795][995]Log file closed, 06/24/18 13:26:35

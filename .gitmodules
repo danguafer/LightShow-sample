@@ -1,0 +1,3 @@
+[submodule "Plugins/LightShow"]
+	path = Plugins/LightShow
+	url = https://github.com/danguafer/LightShow

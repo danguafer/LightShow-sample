@@ -1,0 +1,62 @@
+Generating report for minidump
+
+Application version 4.19.2.0
+ ... built from changelist 0
+
+OS version Linux 4.13.0-45-generic (network name: veritas)
+Running 4 x86_64 processors (8 logical cores)
+Exception was "SIGSEGV: invalid attempt to write memory at address 0x0000000000000003"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+Unknown!FLinuxPlatformStackWalk::CaptureStackBackTrace(unsigned long long*, unsigned int, void*) + some bytes
+Unknown!FGenericPlatformStackWalk::StackWalkAndDump(char*, unsigned long, int, void*) + some bytes
+Unknown!FLinuxCrashContext::CaptureStackTrace() + some bytes
+Unknown!CommonLinuxCrashHandler(FGenericCrashContext const&) + some bytes
+Unknown!PlatformCrashHandler(int, siginfo_t*, void*) + some bytes
+Unknown!/lib/x86_64-linux-gnu/libpthread.so.0(+0x11390) [0x7f30abebe390] + some bytes
+Unknown!FGenericPlatformMisc::RaiseException(unsigned int) + some bytes
+Unknown!FLinuxErrorOutputDevice::Serialize(wchar_t const*, ELogVerbosity::Type, FName const&) + some bytes
+Unknown!FOutputDevice::LogfImpl(wchar_t const*, ...) + some bytes
+Unknown!FDebug::AssertFailed(char const*, char const*, int, wchar_t const*, ...) + some bytes
+Unknown!FHittestGrid::FindNextFocusableWidget(FArrangedWidget const&, EUINavigation, FNavigationReply const&, FArrangedWidget const&) + some bytes
+Unknown!FSlateApplication::AttemptNavigation(FWidgetPath const&, FNavigationEvent const&, FNavigationReply const&, FArrangedWidget const&) + some bytes
+Unknown!FSlateApplication::ProcessReply(FWidgetPath const&, FReply const&, FWidgetPath const*, FPointerEvent const*, unsigned int) + some bytes
+Unknown!FSlateApplication::ProcessKeyDownEvent(FKeyEvent&) + some bytes
+Unknown!FSlateApplication::OnKeyDown(int, unsigned int, bool) + some bytes
+Unknown!FLinuxApplication::ProcessDeferredMessage(SDL_Event) + some bytes
+Unknown!FLinuxApplication::AddPendingEvent(SDL_Event) + some bytes
+Unknown!FLinuxPlatformApplicationMisc::PumpMessages(bool) + some bytes
+Unknown!FSlateApplication::TickPlatform(float) + some bytes
+Unknown!FSlateApplication::Tick(ESlateTickType) + some bytes
+Unknown!/home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-UnrealEd.so(+0x13b448d) [0x7f30a1e9e48d] + some bytes
+Unknown!FFeedbackContextEditor::StartSlowTask(FText const&, bool) + some bytes
+Unknown!FSlowTask::MakeDialog(bool, bool) + some bytes
+Unknown!InternalPromptForCheckoutAndSave(TArray<UPackage*, FDefaultAllocator> const&, bool, TArray<UPackage*, FDefaultAllocator>&) + some bytes
+Unknown!FEditorFileUtils::PromptForCheckoutAndSave(TArray<UPackage*, FDefaultAllocator> const&, bool, bool, TArray<UPackage*, FDefaultAllocator>*, bool, bool) + some bytes
+Unknown!FAssetEditorToolkit::SaveAsset_Execute() + some bytes
+Unknown!FMaterialEditor::SaveAsset_Execute() + some bytes
+Unknown!TBaseSPMethodDelegateInstance<false, FAssetEditorToolkit, (ESPMode)0, TTypeWrapper<void> ()>::Execute() const + some bytes
+Unknown!TBaseSPMethodDelegateInstance<false, FAssetEditorToolkit, (ESPMode)0, void ()>::ExecuteIfSafe() const + some bytes
+Unknown!FUICommandList::ConditionalProcessCommandBindings(FKey, bool, bool, bool, bool, bool) const + some bytes
+Unknown!FUICommandList::ProcessCommandBindings(FKeyEvent const&) const + some bytes
+Unknown!SStandaloneAssetEditorToolkitHost::OnKeyDown(FGeometry const&, FKeyEvent const&) + some bytes
+Unknown!non-virtual thunk to SStandaloneAssetEditorToolkitHost::OnKeyDown(FGeometry const&, FKeyEvent const&) + some bytes
+Unknown!FSlateApplication::ProcessKeyDownEvent(FKeyEvent&) + some bytes
+Unknown!FSlateApplication::OnKeyDown(int, unsigned int, bool) + some bytes
+Unknown!FLinuxApplication::ProcessDeferredMessage(SDL_Event) + some bytes
+Unknown!FLinuxApplication::AddPendingEvent(SDL_Event) + some bytes
+Unknown!FLinuxPlatformApplicationMisc::PumpMessages(bool) + some bytes
+/home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/UE4Editor!FEngineLoop::Tick() + some bytes [Runtime/Core/Public/UObject/NameTypes.h:699]
+/home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/UE4Editor!GuardedMain(wchar_t const*) + some bytes [/home/danguafer/dev/tools/UnrealEngine/Engine/Source/Runtime/Launch/Private/Launch.cpp:62]
+Unknown!CommonLinuxMain(int, char**, int (*)(wchar_t const*)) + some bytes
+Unknown!/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f30a0332830] + some bytes
+Unknown!/home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/UE4Editor(_start+0x29) [0x232029] + some bytes
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

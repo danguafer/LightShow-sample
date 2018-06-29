@@ -1,0 +1,104 @@
+﻿Log file open, 06/22/18 13:43:41
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1140933727) SRandInit(-1140933727).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogInit: Build: ++UE4+Release-4.19-CL-0
+LogInit: Engine Version: 4.19.2-0+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-0+++UE4+Release-4.19
+LogInit: Net CL: 0
+LogInit: Compiled (64-bit): Jun  5 2018 08:55:09
+LogInit: Compiled with Clang: 5.0.2 (branches/release_50)
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  -Abslog=/home/danguafer/dev/danguafer/LightShow/Saved/Logs/LightShow-CRC.log /home/danguafer/dev/danguafer/LightShow/Saved/Crashes/crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF/
+LogInit: Base Directory: /home/danguafer/dev/tools/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.22-16.43.41:344][  0]LogInit: Linux hardware info:
+[2018.06.22-16.43.41:344][  0]LogInit:  - we are the first instance of this executable
+[2018.06.22-16.43.41:344][  0]LogInit:  - this process' id (pid) is 13857, parent process' id (ppid) is 13418
+[2018.06.22-16.43.41:344][  0]LogInit:  - we are not running under debugger
+[2018.06.22-16.43.41:344][  0]LogInit:  - machine network name is 'veritas'
+[2018.06.22-16.43.41:345][  0]LogInit:  - user name is 'danguafer' (danguafer)
+[2018.06.22-16.43.41:345][  0]LogInit:  - we're logged in locally
+[2018.06.22-16.43.41:345][  0]LogInit:  - we're running with rendering
+[2018.06.22-16.43.41:345][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz' (signature: 0x906E9)
+[2018.06.22-16.43.41:345][  0]LogInit:  - Number of physical cores available for the process: 4
+[2018.06.22-16.43.41:345][  0]LogInit:  - Number of logical cores available for the process: 8
+[2018.06.22-16.43.41:345][  0]LogInit:  - Cache line size: 64
+[2018.06.22-16.43.41:345][  0]LogInit:  - Memory allocator used: binned2
+[2018.06.22-16.43.41:345][  0]LogLinux: Skipped benchmarking clocks because the engine is running in a standalone program mode - CLOCK_REALTIME will be used.
+[2018.06.22-16.43.41:345][  0]LogInit: Linux-specific commandline switches:
+[2018.06.22-16.43.41:345][  0]LogInit:  -nodwarf (currently OFF): suppress parsing of DWARF debug info (callstacks will be generated faster, but won't have line numbers)
+[2018.06.22-16.43.41:345][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2018.06.22-16.43.41:345][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2018.06.22-16.43.41:345][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2018.06.22-16.43.41:345][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2018.06.22-16.43.41:345][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2018.06.22-16.43.41:345][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2018.06.22-16.43.41:345][  0]LogInit:  - Physical RAM available (not considering process quota): 32 GB (32103 MB, 32873816 KB, 33662787584 bytes)
+[2018.06.22-16.43.41:346][  0]LogUObjectArray: 149 objects as part of root set at end of initial load.
+[2018.06.22-16.43.41:346][  0]LogUObjectAllocator: 22184 out of 0 bytes used by permanent object pool.
+[2018.06.22-16.43.41:346][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.22-16.43.41:346][  0]LogInit: Using OS detected language ().
+[2018.06.22-16.43.41:346][  0]LogInit: Using OS detected locale ().
+[2018.06.22-16.43.41:346][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2018.06.22-16.43.41:346][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2018.06.22-16.43.41:348][  0]CrashReportClientLog: CrashReportClientVersion=1.0
+[2018.06.22-16.43.41:348][  0]CrashReportClientLog: CrashReportReceiver disabled
+[2018.06.22-16.43.41:348][  0]CrashReportClientLog: DataRouterUrl: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+[2018.06.22-16.43.41:351][  0]CrashReportClientLog: Initial state = Unknown UploadState value
+[2018.06.22-16.43.41:351][  0]CrashReportClientLog: Initial state = Unknown UploadState value
+[2018.06.22-16.43.41:351][  0]LogCrashDebugHelper: DepotName: //UE4/Release-4.19
+[2018.06.22-16.43.41:351][  0]LogCrashDebugHelper: BuiltFromCL: 0
+[2018.06.22-16.43.41:351][  0]LogCrashDebugHelper: EngineVersion: 4.19.2-0+++UE4+Release-4.19
+[2018.06.22-16.43.41:351][  0]LogCrashDebugHelper: BuildVersion: ++UE4+Release-4.19-CL-0
+[2018.06.22-16.43.41:351][  0]LogCrashDebugHelper: Warning: CrashDebugHelperConfig invalid
+[2018.06.22-16.43.41:351][  0]LogCrashDebugHelper: Warning: PDB Cache disabled
+[2018.06.22-16.43.42:321][  0]CrashReportClientLog: Got 5 pending files to upload from 'crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF'
+[2018.06.22-16.43.42:322][  0]CrashReportClientLog: State change from Ready to SendingFiles
+[2018.06.22-16.43.42:322][  0]CrashReportClientLog: CompressAndSendData have 5 pending files
+[2018.06.22-16.43.42:322][  0]CrashReportClientLog: CompressAndSendData compressing 118782 bytes ('/home/danguafer/dev/danguafer/LightShow/Saved/Crashes/crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF/LightShow.log')
+[2018.06.22-16.43.42:322][  0]CrashReportClientLog: CompressAndSendData compressing 108 bytes ('/home/danguafer/dev/danguafer/LightShow/Saved/Crashes/crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF/CrashReportClient.ini')
+[2018.06.22-16.43.42:323][  0]CrashReportClientLog: CompressAndSendData compressing 4 bytes ('/home/danguafer/dev/danguafer/LightShow/Saved/Crashes/crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF/minidump.dmp')
+[2018.06.22-16.43.42:323][  0]CrashReportClientLog: CompressAndSendData compressing 4579 bytes ('/home/danguafer/dev/danguafer/LightShow/Saved/Crashes/crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF/Diagnostics.txt')
+[2018.06.22-16.43.42:323][  0]CrashReportClientLog: CompressAndSendData compressing 17469 bytes ('/home/danguafer/dev/danguafer/LightShow/Saved/Crashes/crashinfo-LightShow-pid-13418-1DEBEE6029060D16002B010B845444EF/CrashContext.runtime-xml')
+[2018.06.22-16.43.42:353][  0]LogInit: Using libcurl 7.57.0
+[2018.06.22-16.43.42:353][  0]LogInit:  - built for x86_64-pc-linux-gnu
+[2018.06.22-16.43.42:353][  0]LogInit:  - supports SSL with OpenSSL/1.0.2h
+[2018.06.22-16.43.42:353][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.06.22-16.43.42:353][  0]LogInit:  - other features:
+[2018.06.22-16.43.42:353][  0]LogInit:      CURL_VERSION_SSL
+[2018.06.22-16.43.42:353][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.06.22-16.43.42:353][  0]LogInit:      CURL_VERSION_IPV6
+[2018.06.22-16.43.42:353][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.06.22-16.43.42:353][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.06.22-16.43.42:353][  0]LogInit:      CURL_VERSION_TLSAUTH_SRP
+[2018.06.22-16.43.42:353][  0]LogInit:  Libcurl: checking if '/etc/pki/tls/certs/ca-bundle.crt' exists
+[2018.06.22-16.43.42:353][  0]LogInit:  Libcurl: checking if '/etc/ssl/certs/ca-certificates.crt' exists
+[2018.06.22-16.43.42:353][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.06.22-16.43.42:353][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2018.06.22-16.43.42:353][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.06.22-16.43.42:353][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.06.22-16.43.42:353][  0]LogInit:  - CertBundlePath = /etc/ssl/certs/ca-certificates.crt  - Libcurl will set CURLOPT_CAINFO to it
+[2018.06.22-16.43.42:353][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2018.06.22-16.43.42:353][  0]LogInit:  - LocalHostAddr = Default
+[2018.06.22-16.43.42:353][  0]CrashReportClientLog: Sending HTTP request: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?AppID=CrashReporter&AppVersion=4.19.2-0%2B%2B%2BUE4%2BRelease-4.19&AppEnvironment=Release&UploadType=crashreports&UserID=0002846f26040719002800dbe6d3e929%7C%7C04dfe4504f14451bb184c22359d8eb0c
+[2018.06.22-16.43.43:156][  0]CrashReportClientLog: OnProcessRequestComplete(), State=SendingFiles bSucceeded=1
+[2018.06.22-16.43.43:156][  0]CrashReportClientLog: State change from SendingFiles to SendingFiles
+[2018.06.22-16.43.43:156][  0]CrashReportClientLog: All uploads done
+[2018.06.22-16.43.43:156][  0]CrashReportClientLog: State change from SendingFiles to Finished
+[2018.06.22-16.43.43:324][  0]LogLinux: FLinuxPlatformMisc::RequestExit(0)
+[2018.06.22-16.43.43:324][  0]LogGenericPlatformMisc: FPlatformMisc::RequestExit(0)
+[2018.06.22-16.43.43:357][  0]CrashReportClientLog: Final state (Receiver) = Finished
+[2018.06.22-16.43.43:357][  0]CrashReportClientLog: Final state (Receiver) = Unknown UploadState value
+[2018.06.22-16.43.43:357][  0]LogExit: Preparing to exit.
+[2018.06.22-16.43.43:358][  0]LogExit: Object subsystem successfully closed.
+[2018.06.22-16.43.43:360][  0]LogModuleManager: Shutting down and abandoning module HTTP (10)
+[2018.06.22-16.43.43:380][  0]LogModuleManager: Shutting down and abandoning module SSL (9)
+[2018.06.22-16.43.43:382][  0]LogModuleManager: Shutting down and abandoning module CrashDebugHelper (6)
+[2018.06.22-16.43.43:382][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (4)
+[2018.06.22-16.43.43:382][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2018.06.22-16.43.43:382][  0]LogExit: Exiting.
+[2018.06.22-16.43.43:384][  0]Log file closed, 06/22/18 13:43:43
